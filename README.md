@@ -1,4 +1,4 @@
-<h1 align="center"><b>>> IDENTITY CONFIRMED: flippermen 🔥</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+7<h1 align="center"><b>>> IDENTITY CONFIRMED: flippermen 🔥</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -83,11 +83,17 @@ Soy **Esteban Jiménez (flippermen)**, Ingeniero en Ciberseguridad en formación
 
 <br>
 
+
+
 ## 📊 Performance Metrics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flippermen&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flippermen&layout=compact&theme=gotham&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flippermen&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flippermen&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=flippermen&theme=react&hide_border=true&background=0D1117" />
 </p>
 
 <br>
