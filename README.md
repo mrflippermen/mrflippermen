@@ -87,12 +87,17 @@ Soy **Esteban Jiménez (flippermen)**, Ingeniero en Ciberseguridad en formación
 
 ## 📊 Performance Metrics
 
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flippermen&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <!-- Stats Card Simplificada -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flippermen&show_icons=true&theme=react&hide_border=true&bg_color=0D1117"/>
+  
+  <!-- Top Languages -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flippermen&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
 </p>
 
 <p align="center">
+  <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=flippermen&theme=react&hide_border=true&background=0D1117" />
 </p>
 
