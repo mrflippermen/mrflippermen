@@ -1,157 +1,115 @@
-
-<h1 align="center"><b>Hi , I'm Esteban Jimenez (flippermen) 🔥</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>>> IDENTITY CONFIRMED: flippermen 🔥</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=700&lines=Red+Team+Operator;Penetration+Tester;Flipper+Zero+Script+Creator;HTB+Top+1+Ecuador+%E2%84%96%2071+World;Ethical+Hacker+%7C+OT%2FICS+Expert;CTF+Champion+%F0%9F%8F%86;Parrot+OS+Pentester;Red+Team+Speaker;Always+hunting+for+the+next+exploit..%3C3">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&lines=Captain+of+CyberFlippers+%7C+Red+Team+Operator;HTB+Top+1+Ecuador+%E2%84%96+71+World;Flipper+Zero+Script+Creator;UDLA+Cybersecurity+Engineer;OT%2FICS+Expert+%7C+Parrot+OS+Main;Always+flipping+bits+and+taking+names...%3C3">
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=flippermen&fontSize=40&fontAlignY=55&animation=fadeIn&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=ESTEBAN%20JIMENEZ&fontSize=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Red%20Team%20Operator%20%7C%20CyberFlippers%20Captain&descAlignY=65&descAlign=50" />
 </p>
 
 <br>
 
-## 🛡️ About Me
+## 🛡️ Mission Brief (About Me)
 
-- 🎓 **Ingeniería en Ciberseguridad** (en curso) + Ayudante de Cátedra en **Universidad de las Américas**
-- 🩺 **Pentester Independiente** | **Red Team Operator** en hacker one– Especializado en simulaciones de ataques reales, explotación de vulnerabilidades y evasión de defensas
-- 🐬 **Creador de scripts para Flipper Zero** & charlas de concienciación sobre ethical hacking y herramientas de pentesting inalámbrico
-- 🏆 **Top 1 Nacional Ecuador** | **Puesto 71 Mundial en Hack The Box** – Maestro en máquinas HTB, Pro Labs y CTFs con enfoque en Active Directory, web exploits y post-exploitation
-- 🏅 **Campeón x2 Inggenials Ciberseguridad** – Dominando categorías de ethical hacking y red teaming
-- 🌎 **Representante de Ecuador** en **Latinoamerica Cybersecurity 2025 (Colombia)** – Capitán del equipo, liderando estrategias en el ctf
-- 🎤 **Speaker & CTF Architect**: Speaker en "Flipper Zero en Red Team Operations" y participante en Wardriving  EKO PARTY Challenge;CTF EKO PARTY Hackron, Cybercamp, CyberEx, Q4 HackTheBox Latino, Pwn Or Die – Diseñando CTFs complejos con escenarios reales de pentesting
+> *"Vivimos para el Rojo, protegemos en Azul. 'Flipeamos' el sistema y capturamos la bandera."*
 
-> 💬 *“En el mundo de Hack The Box y Parrot OS, cada exploit es una lección. Si no puedes explicarlo simple, no lo entiendes lo suficiente.” – Yo, después de 40h en un Pro Lab HTB*
+Soy **Esteban Jiménez (flippermen)**, Ingeniero en Ciberseguridad en formación (**UDLA - FICA**) y Pentester Independiente. Mi filosofía no es solo encontrar vulnerabilidades, sino entender la arquitectura a un nivel tan profundo que la explotación se vuelve inevitable.
+
+- ⚔️ **Captain of CYBERFLIPPERS**: Fundador y líder de la unidad de élite #1 de Ecuador (University CTF 2025). Preparando actualmente la **Operación Brasil**.
+- 🏆 **Elite Competitor**: **Top 1 Ecuador** y **Top 71 Global** en Hack The Box. Especialista en Pro Labs (entornos empresariales simulados).
+- 🐬 **Flipper Zero Specialist**: Desarrollo scripts de automatización para auditorías físicas y wireless.
+- 🌎 **Speaker & Community Leader**: Arquitecto de CTFs (Hackron, Cybercamp) y conferencista sobre Red Team Operations.
 
 <br>
 
-## 💻 Technical Skills
+## 🏴‍☠️ My Squad: CYBERFLIPPERS
+
+<p align="center">
+  <img src="https://mrflippermen.github.io/images/cyberflipper_hero.png" width="100%" alt="CyberFlippers Hero Banner">
+</p>
+
+**Current Status:** `[⚠️ PREPARING FOR BRAZIL OPERATION]`
+**Active Roster:** 10 Operators | **Total Pwns:** 136 Flags
+**Origin:** Universidad de las Américas (UDLA)
+
+> *Somos una fuerza operativa. No un club de estudio.*
+
+<br>
+
+## 💻 Validated Arsenal (Tech Stack)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,kali,parrot,python,bash,powershell,c,java,flask,docker,aws,postgres,burpsuite,metasploit,ghidra,wireshark,flipperzero,obsidian,vscode,git,postman&perline=12" />
+    <img src="https://skillicons.dev/icons?i=linux,kali,parrot,python,bash,powershell,c,java,flask,docker,aws,postgres,burpsuite,metasploit,ghidra,wireshark,flipperzero,obsidian,vscode,git&perline=15" />
   </a>
 </p>
 
-**Especialidades (con enfoque en Hack The Box y Parrot OS):**
-- Active Directory Enumeration, Exploitation & Evasion (HTB Pro Labs mastery)
-- Web & API Pentesting (SQLi, XSS, RCE – usando Burp Suite en Parrot OS)
-- Exploit Development & Custom Payloads (Metasploit, Ghidra)
-- Lateral Movement, Pivoting & Tunneling (Proxychains, SSH en entornos HTB)
-- Phishing Avanzado, OSINT & Social Engineering (con scripts personalizados)
-- Flipper Zero Automation para Wardriving y BadUSB Attacks
-- OT/ICS Security (PLC Siemens/Schneider secure config en escenarios industriales)
-- Red Team Tactics: Simulaciones de APT, EDR Evasion y Persistence
+- **Operations OS:** Parrot Security OS (Main) / Kali Linux (Backup).
+- **Red Team Craft:** Active Directory Exploitation (Kerberoasting, DCSync, GPO Abuse), Pivoting (Proxychains/Chisel), C2 Frameworks.
+- **Hardware Hacking:** Flipper Zero (BadUSB/SubGHz), Wardriving.
+- **ICS/OT:** Siemens/Schneider PLC Secure Configuration.
 
 <br>
 
-## 🏆 HTB Pro Labs Certified
+## 🏆 Combat Record (HTB Pro Labs)
 
-| Lab | Fecha | CPE | Duración | ID | Contenidos Clave |
-|-----|-------|-----|----------|----|------------------|
-| **Cybernetics** | 07 Apr 2025 | 40 | 40h | `HTBCERT-DB8986537F` | AD enumeration/exploitation, advanced phishing, DevOps security, EDR evasion, lateral movement, LPE, situational awareness |
-| **APTLabs** | 08 Mar 2025 | 40 | 40h | `HTBCERT-2F1382404F` | AD exploitation, defense evasion, lateral movement, advanced post-exploitation |
-| **Zephyr** | 28 Mar 2025 | 40 | 40h | `HTBCERT-36F9A2B84C` | Pivoting, SQL attacks, cracking, web exploitation, lateral movement, AD exploitation |
-| **Dante** | 12 Mar 2025 | 40 | 40h | `HTBCERT-2044AA5741` | Enumeration, exploit dev, lateral movement, privilege escalation, web attacks, situational awareness |
-| **RastaLabs** | 29 Mar 2025 | 40 | 40h | `HTBCERT-7080AA8EC7` | AD enumeration/exploitation, EDR evasion, exploit dev, lateral movement, LPE, persistence, phishing, situational awareness |
-| **Offshore** | 07 Apr 2025 | 40 | 48h | `HTBCERT-154F6A397D` | AD enumeration/attacks, EDR evasion, lateral movement, LPE, situational awareness, tunneling/pivoting, app enumeration/attacks |
-
-> **Todas completadas con dominio total en escenarios HTB: De la enumeración inicial en Parrot OS a la full pwn con red team tactics.**
+| Operation | Date | Status | ID | Tactics Deployed |
+|-----------|------|--------|----|------------------|
+| **Cybernetics** | Apr 07, 2025 | ✅ PWNED | `DB8986537F` | AD persistence, DevOps sec, EDR evasion, LPE |
+| **Offshore** | Apr 07, 2025 | ✅ PWNED | `154F6A397D` | AD attacks, Tunneling, situational awareness |
+| **RastaLabs** | Mar 29, 2025 | ✅ PWNED | `7080AA8EC7` | EDR evasion, exploit dev, phishing, lateral movement |
+| **Zephyr** | Mar 28, 2025 | ✅ PWNED | `36F9A2B84C` | Pivoting, SQLi, Cracking, AD exploitation |
+| **Dante** | Mar 12, 2025 | ✅ PWNED | `2044AA5741` | Enumeration, exploitation, privilege escalation |
+| **APTLabs** | Mar 08, 2025 | ✅ PWNED | `2F1382404F` | Advanced defense evasion, lateral movement |
 
 <br>
 
-## 🔐 Certificaciones Oficiales
+## 🔐 Credentials & Honors
 
 <div align="center">
 
-| Certificación | Plataforma | Fecha/Expiración |
-|---------------|----------|------------------|
-| **Introduction to CIP** | OPSWAT Academy | Jul 2026 |
-| **OT Security Expert** | OPSWAT Academy | Jul 2026 |
-| **Schneider PLC Secure Config Expert** | OPSWAT | Jul 2026 |
-| **Siemens PLC Secure Config Expert** | OPSWAT | Jul 2026 |
-| **AWS Cloud Foundations Graduate** | AWS Academy | Jun 2025 |
-| **Network Defense** | Cisco Networking Academy | May 2025 |
-| **Introduction to Cybersecurity** | Cisco | Jul 2023 |
-| **Networking Essentials** | Cisco | Jun 2023 |
-| **Introduction to IoT** | Cisco | Jun 2023 |
-| **Python Essentials 1 & 2** | Cisco | May 2024 |
-| **Python Data Structures & Algorithms + LeetCode Exercises** | Udemy | Dic 2024 (ID: UC-aff11223-9005-463f-b387-c371d86d10b8) |
+| Award / Cert | Organization | Status |
+|--------------|--------------|--------|
+| **Top 1 Ecuador / Top 95 Global (Team)** | HTB University CTF 2025 | 🏆 Winner |
+| **Campeón Nacional x2** | Inggenials Ciberseguridad | 🥇 Winner |
+| **Network Defense** | Cisco | ✅ Active |
+| **OT Security Expert** | OPSWAT Academy | ✅ Active |
+| **AWS Cloud Foundations** | AWS Academy | ✅ Active |
 
 </div>
 
 <br>
 
-## 🎙️ Eventos & Representaciones
-
-```text
-┌─ Ekoparty 2025 (Argentina) → Participante en Wardriving Challenge (explotando redes inalámbricas con Parrot OS y Flipper), Participante en CTF 
-├─ Latinoamerica Cybersecurity 2025 (Colombia) → Capitán del Equipo Ecuador: Liderando red team attacks en CTFs multinacionales
-├─ Pwn Or Die 2025/2024 (Ecuador) → Asistente, Competidor & Speaker en ethical hacking sessions
-├─ Hackron, Cybercamp, CyberEx, Q4 HTB Latino → Arquitecto de CTFs: Diseñando labs inspirados en HTB con exploits reales
-└─ Reloaded 2024 (Ecuador) → Colaborador en talleres de pentesting con Parrot OS
-```
-
-<br>
-
-## ⚔️ CTF & Competencias
-
-- 🥇 **Campeón Nacional x2** – Inggenials Ciberseguridad (enfoque en red team y HTB-style challenges)
-- 🏆 **Top 1 Ecuador** – Hack The Box (flippermen profile)
-- 🌍 **Puesto 71 Mundial** – HTB Ranking (especializado en Pro Labs y máquinas retiradas)
-- 🛠️ **Colaborador oficial de HTB** – Writeups detallados de máquinas retiradas, contribuyendo a la comunidad pentester
-
-<br>
-
-## 🛠️ Herramientas Propias (GitHub)
-
-```bash
-🔧 flipper-zero-auditor      → Scripts para auditorías WiFi/BadUSB en Flipper Zero (integrado con Parrot OS tools)
-🔧 ad-enum-toolkit           → Automatización de enumeración AD inspirada en HTB labs (Python/Bash)
-🔧 phishing-genix            → Generador de campañas phishing con tracking y evasion (usado en red team sims)
-```
-
-> *Pronto en repositorios públicos con demos, writeups HTB-style y tutoriales para pentesters*
-
-<br>
-
-## 📊 GitHub Stats
+## 📊 Performance Metrics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flippermen&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flippermen&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=flippermen&theme=react&hide_border=true&background=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flippermen&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flippermen&layout=compact&theme=gotham&hide_border=true&bg_color=0D1117"/>
 </p>
 
 <br>
 
-## 🤝 Conéctate conmigo
+## 📡 Encrypted Comms
 
 <p align="center">
   <a href="https://www.linkedin.com/in/esteban-jimenez-994868249/" target="blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" height="50" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:esteban.jimenez.rivera@udla.edu.ec">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://app.hackthebox.com/profile/2117389">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJwcW1yamFqYXgzOXU5M3NsbDlod2x3Y3Q1NzRrY3Vjc3pweHdqcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2DUl6BtXGAx2uyqIas/giphy.gif" height="50" />
+    <img src="https://img.shields.io/badge/HackTheBox-Profile-111111?style=for-the-badge&logo=hack-the-box&logoColor=00FF9D" />
   </a>
 </p>
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3FmeGRqZGJuY3U5eDhrMTU4dDhodTM3Y3BwdG9wdmI4NzQ3M3JnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9J6zKnZvb2Lfy/giphy.gif" width="300" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3FmeGRqZGJuY3U5eDhrMTU4dDhodTM3Y3BwdG9wdmI4NzQ3M3JnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9J6zKnZvb2Lfy/giphy.gif" width="100%" style="border-radius: 10px; opacity: 0.8;" />
   <br>
-  <i>Currently pwning HTB labs on Parrot OS... and maybe your network (with permission) 😈</i>
+  <i>"No es magia. Es persistencia."</i>
 </p>
